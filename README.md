@@ -22,7 +22,7 @@ See the official project introduction here:
 
 It is recommended to use **Python 3.10 or later**.
 ⚠️ This project depends on Qiskit 2.0.0 and qiskit-aer 0.17.0.
-Make sure your environment matches these versions for compatibility.See requirement.txt for other required packages.
+Make sure your environment matches these versions for compatibility. See requirement.txt for other required packages.
 
 You can recreate the environment using the provided YAML file:
 
