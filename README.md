@@ -6,6 +6,7 @@ It was originally developed as part of the **IPA FY2018 MITOU "Unexplored" Targe
 See the official project introduction here:  
 👉 [IPA 2018 Unexplored Quantum Gate Projects](https://www.ipa.go.jp/jinzai/mitou/target/2018/gate/seika-quantum-gate.html)
 
+
 ## Features
 
 - Build quantum circuits interactively using a GUI
@@ -13,6 +14,9 @@ See the official project introduction here:
 - Multiple modes (1-qubit, 2-qubit, chord mode, etc.)
 - Real-time MIDI playback using `pygame.midi`
 - Educational and creative: combines quantum logic and music
+
+👉 For a more detailed manual and ongoing updates, please visit the project website:  
+[https://www.quantum-creation.jp](https://www.quantum-creation.jp)
 
 ## Installation
 
